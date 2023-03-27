@@ -40,14 +40,14 @@ We do not share your information with third parties, except as follows:
 2. For legal reasons: We may disclose your information if we believe that such disclosure is necessary to comply with applicable laws and regulations, to respond to a subpoena, court order, or other legal process, or to protect our rights, property, or safety or the rights, property, or safety of third parties.
 
 3. With service providers: We may share your information with third-party service providers who help us operate the Application, process payments, or perform other business functions.
-  1. We share anonymous user sessions with LogRocket in order to analyse our
-     user experience and improve it. These sessions are not associated with the
-     user.
-  2. We send anonymous user input to OpenAI for processing, these user inputs
-     are not associated with the user.
-  3. We send payment data to RevenueCat to process payments. Find more about the
-     data RevenueCat collects regarding payments
-     [here](https://www.revenuecat.com/privacy/).
+    1. We share anonymous user sessions with LogRocket in order to analyse our
+      user experience and improve it. These sessions are not associated with the
+      user.
+    2. We send anonymous user input to OpenAI for processing, these user inputs
+      are not associated with the user.
+    3. We send payment data to RevenueCat to process payments. Find more about the
+      data RevenueCat collects regarding payments
+      [here](https://www.revenuecat.com/privacy/).
 
 ## Your choices
 
