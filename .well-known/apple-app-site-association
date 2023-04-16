@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["65DWDAVFDD.com.tattapp"],
+        "components": [{
+          "/", "/refer/*"
+        }]
+      },
+      {
+        "appID": "65DWDAVFDD.com.tattapp",
+        "paths": ["/refer/*"]
+      }
+    }
+  }
+}
